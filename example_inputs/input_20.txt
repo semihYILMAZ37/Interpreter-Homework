@@ -1,0 +1,12 @@
+Kuzurete = 99
+Yuku = 75
+Maeni = 12
+Kuzurete + Yuku | 1
+Maeni * Kuzurete | 1
+Yuku - Maeni | 1
+- Kuzurete
+& Yuku & 1
+xor(Maeni & )1
+xor(Kuzurete * Yuku * maeni, 0   % 0)
+xor(Kuzurete * Yuku * maeni, 0)   % 0
+xor(Kuzurete * Yuku * Maeni, 0

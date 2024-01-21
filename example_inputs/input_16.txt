@@ -1,0 +1,13 @@
+a = 5
+b = a * 3
+(a + 2) * b
+c = ls(a, 2) & xor(a, b)
+rs(c, 1) | - c
+d = ls(c, 1) * (-a + 12)
+d + not(xor(a, b))
+e = rs(d, 2) + not(xor(a, b)) - (a | b)
+e * not(c)
+f = xor(ls(a, 2), b | c)
+f * not(c)
+g = rs(f, 1) | (a & b) & xor(a, c)
+ls(g, 2) * (f + not(e)) + (a * b - c)

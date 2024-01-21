@@ -1,0 +1,15 @@
+a = 7
+bb = a * 5                      % 35
+c = (a - 2) * bb                % 175
+d = ls (a, 3)                   % 56
+c
+d
+bb
+e = xor (d, bb)
+e
+g = lr(f, 1) * (0-a + 12)       
+h = rs(c, 2) | e              
+not (xor (g, hh))
+i = rr (g, 2) + not (xor (g, bb))  
+i
+ls (h + 38, 1)

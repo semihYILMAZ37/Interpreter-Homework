@@ -1,0 +1,22 @@
+% Xor Magic Test
+x = 30
+y = 50
+x
+y
+z = x
+x = y
+y = z
+x 
+y
+
+(a = 3) = 5 
+
+x = 30
+y = 50
+x
+y
+x = xor(x, y)
+y = xor(x, y)
+x = xor(x, y)
+x
+y

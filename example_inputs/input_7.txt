@@ -1,0 +1,6 @@
+a = 3
+b = 4
+c
+a + c
+b + B
+xor(B, xor(b, TTTTT))

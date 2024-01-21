@@ -1,0 +1,10 @@
+5555555555
+5555 555555
+t = ((11 + 2) * 5) | (rs(121, 5) & rs(30, 2))
+t
+qt = t + QTQTQT % Please note that undefined variables are 0.
+qt
+t & t | t + xor(t, ls(qt, 2))
+Sad
+Giga + Sad
+https://youtu.be/dQw4w9WgXcQ

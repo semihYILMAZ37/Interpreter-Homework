@@ -1,0 +1,9 @@
+a = 13
+b = a - 6
+not_a = not(a) % Yeah this should be an error - and no, making the language superior is not important - you had to raise an error, obviously.
+nota = not(a) % This is fine
+notb = not(b)
+c = a + b 
+notc = nota + notb
+c 
+notc

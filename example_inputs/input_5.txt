@@ -1,0 +1,13 @@
+a = 8
+b = 8 * (a - 6)       % 16
+c = b + 6             % 22
+ls(a, 2)
+xor(b - a + 1, 17)
+y = 2 * b - c
+x = not(y)
+x
+lr(2 * b - c, y - a)
+rr(b, y - a - 1)
+xor(ls(a, 3 * a - c), not(y))
+xor(lr(y, 2), rr(16, 1))
+not(xor(lr(y, 2), rr(16, 1)))
